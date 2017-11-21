@@ -22,45 +22,48 @@
 <body>
 	<!-- !!!!!   Fixed Nav bar for Phase pages  !!!!!! -->
 
-	<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
-		<div class="container">
-			<div class="navbar-header page-scroll">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-				</button>
-				<a class="navbar-brand" href="../index.html">Project Code<br>Spring '17</a>
+	<nav id="mainNav" class="navbar navbar-default navbar-custom">
+			<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header page-scroll">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+									<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+							</button>
+							<a class="navbar-brand" href="../index.html">Project Code<br>Spring '17</a>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-right">
+									<li class="hidden">
+											<a href="#page-top"></a>
+									</li>
+									<li class="dropdown">
+											<a class="dropdown-toggle" data-toggle="dropdown" href="#portfolio">
+						Phase I<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="./columbus.html">Columbus Library</a></li>
+						<li><a href="./sasb.html">Stephen A. Schwarzman Building</a></li>
+						<li><a href="./stgeorge.html">St. George Library Center</a></li>
+						<li><a href="./sibl.html">Science, Industry, and Business Library</a></li>
+						<li><a href="./blc.html">Bronx Library Center</a></li>
+					</ul>
+									</li>
+									 <li class="dropdown">
+											<a class="dropdown-toggle" data-toggle="dropdown" href="#portfolio">
+						Phase II<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="../phase2/blc.html">Bronx Library Center</a></li>
+						<li><a href="../phase2/sibl.html">Science, Industry and Business Library</a></li>
+					</ul>
+									</li>
+							</ul>
+					</div>
+					<!-- /.navbar-collapse -->
 			</div>
-			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav navbar-right">
-					<li class="hidden">
-						<a href="#page-top"></a>
-					</li>
-					<li class="dropdown">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#portfolio">
-							Phase I<span class="caret"></span>
-						</a>
-						<ul class="dropdown-menu">
-							<li><a href="mml.html">Mid-Manhattan Library</a></li>
-							<li><a href="columbus.html">Columbus Library</a></li>
-							<li><a href="chatham.html">Chatham Square Library</a></li>
-							<li><a href="stgeorge.html">St. George Library Center</a></li>
-							<li><a href="sibl.html">Science, Industry, and Business Library</a></li>
-							<li><a href="cullen.html">Countee Cullen</a></li>
-							<li><a href="blc.html">Bronx Library Center</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#portfolio">
-							Phase II<span class="caret"></span>
-						</a>
-						<ul class="dropdown-menu">
-							<li><a href="../phase2/mml.html">Mid-Manhattan Library</a></li>
-							<li><a href="../phase2/sibl.html">Science, Industry and Business Library</a></li>
-						</ul>
-					</li>
-				</ul>
-			</div>
-		</div>
+			<!-- /.container-fluid -->
 	</nav>
 	<!-- !!!!!!!!!!!!!!! Ends Nav !!!!!!!!!!!!!!!!!!! -->
 
@@ -74,10 +77,10 @@
 
 	<div class="container tint-grey">
 		<!--!!!!!!!!!!!!!!!!!! Branch Section Starts!!!!!!!!!!!!
-			Change class backing and h1 text for each branch-->
-		<div class="jumbotron blc-backing">
+			Change class backing, id and h1 text for each branch-->
+		<div class="jumbotron sibl-backing" id="columbus">
 			<div class="row main-title tint-white">
-				<h1 class="h1-white toptext">Bronx Library Center</h1>
+				<h1 class="h1-white toptext">Science, Industry, and Business Library</h1>
 			</div>
 		</div>
 		<!-- !!!!!!!!!!!!!!!!! Branch Section Ends !!!!!!!!!!!! -->
@@ -87,13 +90,15 @@
 		<div id="classes">
 
 		</div>
+
+
 	</div> <!--  This ends the container -->
 
 
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-	<script src="blc.js"></script>
+	<script src="sibl.js"></script>
 	<script src="projectiterator.js"></script>
 </body>
 

@@ -6,7 +6,7 @@ fileList = ['phase_1.csv', 'phase_2.csv']
 
 exportDict = {}
 cohortArr = []
-mode = "none"
+mode = "individual"
 outputFolder = ""
 outputFileName =""
 location = ""
