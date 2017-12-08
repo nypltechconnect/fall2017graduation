@@ -5,7 +5,7 @@ projects = [
     "Personal Projects": [
       ["Antonio Camacho", "https://camachoaa.github.io/veggie"],
       ["Jacqueline Combs", "https://jscnths111.github.io/internprep"],
-      ["Eysana Jones", "enjones12.github.io/jenningsmyers"],
+      ["Eysana Jones", "https://enjones12.github.io/jenningsmyers"],
       ["Altagracia Sanchez", "https://sanchezaltagracia.github.io/musicaritmo"],
       ["Anna Jarmolowicz", "https://samsnya.github.io/newyorkbyanna/"],
       ["Jason Ventura", "https://jayscount.github.io/interactjv/"],

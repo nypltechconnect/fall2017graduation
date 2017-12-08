@@ -76,7 +76,7 @@ projects = [
       ["Michelle DeAbreu", "https://chelleann40.github.io/personal-project/"],
       ["George Franco", "https://buongiorgio1.github.io/Natart/"],
       ["Von Joseph", "https://vonjoseph.github.io/finalproject/"],
-      ["Dianne Mack", ""],
+      // ["Dianne Mack", ""],
       ["Shanjida Akhter", "https://shanjida6.github.io/makeupblog/index.html"],
       ["Agnieszka Rybak", "https://arybak149.github.io/projectcodewebsite/"]
     ],

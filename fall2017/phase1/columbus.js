@@ -6,7 +6,7 @@ projects = [
       ["Abiola Adeniyi", "https://aaadeniyi.github.io/"],
       ["Rocio Calles", "https://rckio7.github.io/"],
       ["Kerry Fonville", "https://fonvillek1.github.io/"],
-      ["Stephanie Ortigoza", ""],
+      // ["Stephanie Ortigoza", ""],
       ["Oluwakemi Osukoya", "https://kosukoya.github.io/"],
       ["Ildiko Paroda", "https://ildiparoda.github.io/"],
       ["Jackeline Torres", "https://jto18.github.io/index.html"],

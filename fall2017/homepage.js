@@ -1,56 +1,60 @@
 jQuery(document).ready(function($) {
   var carousel = [
     {
-      "image path": "images/Carolyn Weltman.png",
-      caption: "Phase 1 - MML - Balloon Heaven"
+      "image path": "images/agape-love.jpg",
+      caption: "Phase 1 - AGAPE Love"
     },
     {
-      "image path": "images/shawn.png",
-      caption: "Phase 1 - SIBL - :mobilia"
+      "image path": "images/alleycat-ice-cream.jpg",
+      caption: "Phase 1 - Alleycat Ice Cream"
     },
     {
-      "image path": "images/shakiyla_newland.png",
-      caption: "Phase 1 - Columbus - The Beauty Closet"
+      "image path": "images/fonville.jpg",
+      caption: "Phase 1 - Fonville"
     },
     {
-      "image path": "images/Paola_Contardo.png",
-      caption: "Phase 1 - Columbus - Panda Documentaries"
+      "image path": "images/history-of-the-art-movements.jpg",
+      caption: "Phase 1 - History of the art Movements"
     },
     {
-      "image path": "images/athanasia_kotopoulos.PNG",
-      caption: "Phase 1 - BLC - Athanasia Travels"
+      "image path": "images/national-parks.jpg",
+      caption: "Phase 1 - National Parks"
     },
     {
-      "image path": "images/Mohamed_Ismail.png",
-      caption: "Phase 1 - MML - Feline Rescue"
+      "image path": "images/penny-pincher.jpg",
+      caption: "Phase 1 - Penny Pincher"
     },
     {
-      "image path": "images/Kestrel_Ambrose.png",
-      caption: "Phase 1 - Chatham Square - Food-Folio"
+      "image path": "images/sonnet-ly.jpg",
+      caption: "Phase 1 - Sonnet.ly"
     },
     {
-      "image path": "images/Olufunmilayo-Akintayo-Mullis.png",
-      caption: "Phase 1 - MML - Sanctuary for Traumatized Children"
+      "image path": "images/stractual-art.jpg",
+      caption: "Phase 1 - Stractual Art"
     },
     {
-      "image path": "images/adorable.png",
-      caption: "Phase 1 - Countee Cullen -  Adorable Apartment"
+      "image path": "images/visit-marseille.jpg",
+      caption: "Phase 1 - Visit Marseille"
     },
     {
-      "image path": "images/LourdesEcheverry.PNG",
-      caption: "Phase 1 - St. George -  Adorable Apartment"
+      "image path": "images/what-is-art.jpg",
+      caption: "Phase 1 - What is Art"
     },
     {
-      "image path": "images/Maryann Yin.png",
-      caption: "Phase 2 - MML -  Meet A. Hamilton"
+      "image path": "images/big-oyster.jpg",
+      caption: "Phase 2 - The Big Oyster"
     },
     {
-      "image path": "images/Ana-Gamboa.png",
-      caption: "Phase 2 - MML -  Unusual Travel"
+      "image path": "images/bw-lens.jpg",
+      caption: "Phase 2 - BW Lens"
     },
     {
-      "image path": "images/Andrew.png",
-      caption: "Phase 2 - SIBL -  New York City Neighborhood Guide"
+      "image path": "images/kvark-scandinavian-adventures.jpg",
+      caption: "Phase 2 - Kvark Scandinavian Adventures"
+    },
+    {
+      "image path": "images/new-york.jpg",
+      caption: "Phase 2 - New York"
     }
   ];
 

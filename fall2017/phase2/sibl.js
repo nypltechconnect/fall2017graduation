@@ -36,7 +36,7 @@ projects = [
     Instructor: "Cira Foster",
     "Personal Projects": [
       ["Sree Bhagavan", "http://slickcoderlucy.github.io/phase2-nebulae"],
-      ["Donna Calvanese", ""],
+      // ["Donna Calvanese", ""],
       ["Jose Fernandez", "https://jose7fernandez.github.io/jose7fernandez-fall-17-p2-personal-project-jf/"],
       ["Elena Tishina", "https://lea250.github.io/mandala/"],
       ["Stormie Evans", "https://github.com/stormie-rochelle/phase2individualproject.git"],
