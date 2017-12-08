@@ -1,1 +1,22 @@
-projects  = [{"Location": "St. George Library Center Saturday 10am - 3pm", "Instructor": "Yang Kang", "Personal Projects": [{"Name": "Heather King", "url": "https://heather-king.github.io/Black-Hair/"}, {"Name": "Dominic Ambrose", "url": "https://barbesone.github.io/individualprojectphase1/"}, {"Name": "Vina Perez", "url": "https://summerchic.github.io/SummerRoasts/"}, {"Name": "Cindy Pinilla", "url": "https://cindy2222.github.io/Rajasthan/"}, {"Name": "Philip Tam", "url": "https://phil630.github.io/philsautospot/"}, {"Name": "Santa Medina", "url": "https://medi630127.github.io/code-vacation2/"}, {"Name": "Stormie Evans", "url": "https://stormie-rochelle.github.io/individual-project-code-project-page/"}, {"Name": "Lourdes Echeverry", "url": "https://lebe95.github.io/Home_of_Your_Dreams/"}, {"Name": "Matthew Hawk", "url": "https://mlhawk.github.io/mlh-finalproject/"}, {"Name": "Allysa Tangco", "url": "https://nyplproject.github.io/stockmarketfundamentals/"}], "Group Projects": [{"Name": "Four Neighborhoods", "URL": "https://heather-king.github.io/four-neighborhoods/"}, {"Name": "Woof Woof", "URL": "https://phil630.github.io/woofwoof.com/"}, {"Name": "Viva La Paris", "URL": "https://cindy2222.github.io/Paris/"}]}]
+projects = [
+  {
+    Location: "St. George Library Center Saturday 10am - 3pm",
+    Instructor: "Yang Kang",
+    "Personal Projects": [
+      ["Margarita Clemente", "https://sirenamagi.github.io/rawvegandesserts/"],
+      ["Derek Harp", "https://dip528.github.io/cpeg_internship/"],
+      ["Cynthia Munoz", "https://cynthia77m.github.io/travel"],
+      ["Ambika Muscarello", "https://amuscarello.github.io/art/"],
+      ["Jeremy Nunez", "https://jere0331.github.io/newyork-0331/"],
+      ["Adewole Oduye", "https://aoduye.github.io/dress2impress/"],
+      ["Marisol Rodriguez", "https://projectcode2017.github.io/healthymealsanddrinks/"],
+      ["Harriett Sasso", "https://bookgrl74.github.io/nycrunninggrl/"],
+      ["Venus Torres", "https://venust.github.io/tributetobarack-/"]
+    ],
+    "Group Projects": [
+      ["We Love Donuts", "https://aoduye.github.io/welovedonuts/"],
+      ["Raw Vegan Cafe", "https://sirenamagi.github.io/rawvegancafe/"],
+      ["Halloween", "https://projectcode2017.github.io/halloweenproject/"]
+    ]
+  }
+];
