@@ -93,6 +93,7 @@ html {
 
 .row h3 {
   background-color: rgba(255, 255, 255, 0.7);
+  padding: 1rem;
 }
 
 .carousel-text {

@@ -67,5 +67,23 @@ projects = [
       ["New York City Sightseeing (Leon Tang, Judy Truong, Johann Oudkerk)", "https://reallytru.github.io/groupproject/index.html"],
       ["JWC Foundation (Louie Woodall, Agnes Jeon, Frede n. Charles)", "https://j3kyllandhyd3.github.io/frede-agnes-louie.github.io/"]
     ]
+  },
+  {
+    Location: "SIBL Monday & Wednesday 3PM - 5PM",
+    Instructor: "Cira Foster",
+    "Personal Projects": [
+      ["Mary Ann Arbolado", "https://mahtc.github.io/individualproject/"],
+      ["Michelle DeAbreu", "https://chelleann40.github.io/personal-project/"],
+      ["George Franco", "https://buongiorgio1.github.io/Natart/"],
+      ["Von Joseph", "https://vonjoseph.github.io/finalproject/"],
+      ["Dianne Mack", ""],
+      ["Shanjida Akhter", "https://shanjida6.github.io/makeupblog/index.html"],
+      ["Agnieszka Rybak", "https://arybak149.github.io/projectcodewebsite/"]
+    ],
+    "Group Projects": [
+      ["Eiffel Tower", "https://chelleann40.github.io/team-project/"],
+      ["Welcome to the Fiction Pastry", "https://shanjida6.github.io/fictionpastry/"],
+      ["SIBL Entertainment", "https://buongiorgio1.github.io/siblactions/"]
+    ]
   }
 ];
