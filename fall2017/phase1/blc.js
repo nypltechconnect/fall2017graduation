@@ -7,7 +7,7 @@ projects = [
       ["Travern Hawkins", "https://travern.github.io/travernhawkins/"],
       ["Katrina Montgomery", "https://kmontgomery88.github.io/katrinamontgomery/"],
       ["Elio Pichardo", "https://epichardo85.github.io/eliopichardo/"],
-      ["Mayra Reyes-Conner", "msreyes423.github.io/mayrareyesconner"],
+      ["Mayra Reyes-Conner", "https://msreyes423.github.io/mayrareyesconner/"],
       ["Vivian Young", "https://vyoung5678.github.io/vivianyoung/"]
     ],
     "Group Projects": [
