@@ -1,6 +1,6 @@
 projects = [
   {
-    Location: "SIBL Saturday 10:30am - 3:30pm",
+    Location: "SIBL Saturday 10:30AM - 3:30PM",
     Instructor: "Kurt Petrek",
     "Personal Projects": [
       ["Edith Barry", "https://pippa5.github.io/allabout/"],
@@ -42,6 +42,30 @@ projects = [
       ["Wykehamist Bakery", "https://zeyashah.github.io/project-code_group-project_kill-bill-/"],
       ["Jackie Brown", "https://shyshy77.github.io/jackiebrown/index.html"],
       ["CZR Cafe", "https://ronengoren.github.io/Group-project-TechConnect/workspace/"]
+    ]
+  },
+  {
+    Location: "SIBL Monday & Wednesday 5:45PM - 7:45PM",
+    Instructor: "Belem Bueno",
+    "Personal Projects": [
+      ["Ramaa Chitale", "https://rchitale.github.io/"],
+      ["Aileen Gomez", "https://aileengomez.github.io/essentially4u/index.html"],
+      ["Frede Charles", "https://fncprojecode.github.io/"],
+      ["Johann Oudkerk", "https://joudke001.github.io/index.html"],
+      ["Kelli McNamara", "https://djmcboarder.github.io/"],
+      ["Mary Smith", "https://paris350.github.io/"],
+      ["Leon Tang", "https://leon919.github.io/index.html"],
+      ["Judy Truong", "https://reallytru.github.io/"],
+      ["Laura Wang", "https://rainxiaor.github.io/my-website/index.html"],
+      ["Kamesha Williams", "https://coder91275.github.io/about.html"],
+      ["Louie Woodall", "https://j3kyllandhyd3.github.io/personalprojectLAW/"],
+      ["Eugene Hyon", "https://eugenehyon.github.io/ehabout.html"]
+    ],
+    "Group Projects": [
+      ["The City: Told by Real New Yorkers. (Ramaa Chitale, Aileen Gomez, Eugene Hyon, Laura Wang)", "https://rchitale.github.io/group/index.html"],
+      ["KKM Travel (Kelli McNamara, Mary Smith, Kamesha Williams)", "https://coder91275.github.io/group/"],
+      ["New York City Sightseeing (Leon Tang, Judy Truong, Johann Oudkerk)", "https://reallytru.github.io/groupproject/index.html"],
+      ["JWC Foundation (Louie Woodall, Agnes Jeon, Frede n. Charles)", "https://j3kyllandhyd3.github.io/frede-agnes-louie.github.io/"]
     ]
   }
 ];
