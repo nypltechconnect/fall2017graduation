@@ -39,7 +39,7 @@ projects = [
       // ["Donna Calvanese", ""],
       ["Jose Fernandez", "https://jose7fernandez.github.io/jose7fernandez-fall-17-p2-personal-project-jf/"],
       ["Elena Tishina", "https://lea250.github.io/mandala/"],
-      ["Stormie Evans", "https://github.com/stormie-rochelle/phase2individualproject.git"],
+      // ["Stormie Evans", "https://github.com/stormie-rochelle/phase2individualproject.git"],
       ["Dawn Joseph", "https://trinidawn.github.io/dawnjopc2/"],
       ["Kathy Knierim", "https://kcknierim.github.io/courteous-canines/"],
       ["Raihana Rahman", "https://hrnyfl.github.io/p2projects/"]
