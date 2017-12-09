@@ -1,8 +1,17 @@
-@import url("https://fonts.googleapis.com/css?family=Muli:400,700");
+@import url("https://fonts.googleapis.com/css?family=Muli:400,700|Open+Sans");
 
 html {
   padding-bottom: 50px;
+}
+
+html,
+body {
   font-family: "Muli", sans-serif;
+}
+
+h4,
+p {
+  font-family: "Open Sans", sans-serif;
 }
 
 p {
@@ -18,10 +27,6 @@ p {
 
 .jumbotron {
   overflow: hidden;
-}
-
-.jumbotron h1 {
-  font-family: Kievit, Arial, sans-serif;
 }
 
 .mml-backing {
@@ -121,6 +126,10 @@ p {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 5px;
   font-size: 20px;
+}
+
+.carousel-indicators li {
+  border: 1px solid #000;
 }
 
 .featurette a {
