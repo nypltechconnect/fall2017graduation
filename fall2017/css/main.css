@@ -1,5 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:400,700");
+
 html {
   padding-bottom: 50px;
+  font-family: "Muli", sans-serif;
+}
+
+p {
+  font-size: 1.6rem;
 }
 
 .lion-backing {
@@ -72,11 +79,16 @@ html {
 }
 
 .logo-header {
-  background-image: url(../images/nypl-tech-connect-logos-large-hires.png);
-  background-size: contain;
+  background-image: url(https://c1.staticflickr.com/1/71/199603745_4f281d2936_b.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center bottom;
+  background-position: center;
   text-align: center;
+}
+
+.logo-header h1 {
+  background-color: rgba(230, 230, 230, 0.83);
+  padding: 1rem;
 }
 
 .tint-white {
