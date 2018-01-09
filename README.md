@@ -28,6 +28,6 @@ Steps to Basic Development
 		}
 	````
 	
-	7. If each branches JavaScript file is created and formatted correctly the website should generate each page of information on its own.
-	8. It may be necessary to go through and update the nav on each HTML document to reflect the links to branches that pertain to that round of classes.
-	9.  Be sure to commit all changes to gh-pages and push that to github for hosting.
+7. If each branches JavaScript file is created and formatted correctly the website should generate each page of information on its own.
+8. It may be necessary to go through and update the nav on each HTML document to reflect the links to branches that pertain to that round of classes.
+9.  Be sure to commit all changes to gh-pages and push that to github for hosting.
