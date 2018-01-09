@@ -23,6 +23,8 @@ Steps to Basic Development
 			],
 			"Group Projects": [
 				["String, group project name", 
+				"String, group project URL"],
+				["String, group project name", 
 				"String, group project URL"]
 			]
 		}
